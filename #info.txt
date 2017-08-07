@@ -1,0 +1,16 @@
+Magento Admin Info:
+Username:admin
+Email: suwat_@outlook.com
+Password: mM12345678
+Your Store Address:http://localhost/magento2/
+Magento Admin Address:http://localhost/magento2/admin/
+
+Encryption Key:1c6b8483ed86f908e6637c5c0b2dec6e
+Database Info:
+Database Name:magento2
+Username:root
+Password:''
+
+
+command
+php .\bin\magento
